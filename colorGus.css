@@ -1,0 +1,33 @@
+.t1 {
+  /* background-color:rgb(144, 42, 203); */
+  height: 150px;
+  width: 150px;
+  border: 2px solid black;
+  color:rgb(140,240,0);
+}
+.t2 {
+  /* background-color: rgb(43, 197, 50); */
+  height: 150px;
+  width: 150px;
+  border: 2px solid black;
+}
+.t3 {
+  /* background-color: rgb(18, 140, 181); */
+  height: 150px;
+  width: 150px;
+  border: 2px solid black;
+}
+.boxs {
+  display: flex;
+  gap: 10px;
+}
+.win_lose{
+  background-color: rgb(68, 68, 44);
+  color: rgb(223, 217, 217);
+  /* width: fit-content; */
+  padding:10px;
+  text-align: center;
+  display: none;
+
+
+}
